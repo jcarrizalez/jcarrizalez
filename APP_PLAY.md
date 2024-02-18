@@ -8,20 +8,20 @@
 
 Esto seria la web, pero ese proyecto lo tengo privado porque pertenece a qubit. url(https://beta.qubit.tv/inicio)
 
-![image](https://github.com/jcarrizalez/appplay/assets/8440072/52acbcdf-8030-4b97-9eb8-c8dd098f7edb)
+<img width="1011" alt="image" src="https://github.com/jcarrizalez/jcarrizalez/assets/8440072/b3254b77-196a-49fc-bc59-aec2a32f77ef">
 
-![image](https://github.com/jcarrizalez/appplay/assets/8440072/a7d33bb7-6eaa-48cb-b077-9e2585fc6356)
+<img width="1011" alt="image" src="https://github.com/jcarrizalez/jcarrizalez/assets/8440072/dfd27f5d-45c0-4873-9730-35378817ecde">
 
 
 Estos no tendria problema ya que la app es mia y solo los use como marca blanca y esta app no esta en produccion.
+  
+https://github.com/jcarrizalez/jcarrizalez/assets/8440072/2b40cebc-7d18-4a60-83ec-e8cb6099e4e5
 
-https://github.com/jcarrizalez/appplay/assets/8440072/b35eea12-5219-48d9-9623-18462f31df23
+https://github.com/jcarrizalez/jcarrizalez/assets/8440072/e4c99cdb-6657-4380-a2fe-783d2bbdbfac
 
-https://github.com/jcarrizalez/appplay/assets/8440072/4ce77d97-d5a1-4bd0-bdf2-e7a3397672d7
+https://github.com/jcarrizalez/jcarrizalez/assets/8440072/c5f631f0-0261-4679-8462-047298d8f623
 
-https://github.com/jcarrizalez/appplay/assets/8440072/dcfbd20d-78ef-4b6b-9114-9dc48f4c0fbe
+https://github.com/jcarrizalez/jcarrizalez/assets/8440072/7613b9b4-9961-478c-9d70-c8243995d2ae
 
-https://github.com/jcarrizalez/appplay/assets/8440072/bc44827a-d8b1-4c8f-8175-bd891c4f2090
+https://github.com/jcarrizalez/jcarrizalez/assets/8440072/d8b4e093-ff08-4b4a-a604-1c5789b2c419
 
-
-https://github.com/jcarrizalez/appplay/assets/8440072/e9442e4f-dff0-47a7-baed-8087be962c91
