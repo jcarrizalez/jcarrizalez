@@ -23,9 +23,9 @@
 ![react-route](https://github.com/jcarrizalez/jcarrizalez/assets/8440072/e285016c-df5d-4b1b-b823-f68235534f26)
 ![redux](https://github.com/jcarrizalez/jcarrizalez/assets/8440072/f68523b6-ad0d-4239-a5c3-1fa9af8361c0)
 
-Content VOD [AppPlay](https://github.com/jcarrizalez/jcarrizalez/edit/master/APP_PLAY.md).
+Content VOD [AppPlay](https://github.com/jcarrizalez/jcarrizalez/blob/master/APP_PLAY.md).
 
-Payments [BankQr](https://github.com/jcarrizalez/jcarrizalez/edit/master/BANK_QR.md).
+Payments [BankQr](https://github.com/jcarrizalez/jcarrizalez/blob/master/BANK_QR.md).
 
 ## Styles
 ![css3](https://github.com/jcarrizalez/jcarrizalez/assets/8440072/e1c34952-3193-4cab-bb6b-4bad394c4fc6)
