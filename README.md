@@ -19,14 +19,16 @@
 ![html5](https://github.com/jcarrizalez/jcarrizalez/assets/8440072/f6b15aed-8924-43af-98e8-4d9c8e9ffa18)
 ![html](https://github.com/jcarrizalez/jcarrizalez/assets/8440072/29561b33-0825-402f-8db3-7fe19e7dc7fd)
 
+Package [Redux-js](https://github.com/jcarrizalez/redux-js)
+
 ## MObile Android, IOS
 ![react-native](https://github.com/jcarrizalez/jcarrizalez/assets/8440072/1a33a8cb-450a-45f9-a37e-5b971fd8df7c)
 ![react-route](https://github.com/jcarrizalez/jcarrizalez/assets/8440072/e285016c-df5d-4b1b-b823-f68235534f26)
 ![redux](https://github.com/jcarrizalez/jcarrizalez/assets/8440072/f68523b6-ad0d-4239-a5c3-1fa9af8361c0)
 
-Content VOD [AppPlay](https://github.com/jcarrizalez/jcarrizalez/blob/master/APP_PLAY.md).
+Content VOD [AppPlay](https://github.com/jcarrizalez/jcarrizalez/blob/master/APP_PLAY.md)
 
-Payments [BankQr](https://github.com/jcarrizalez/jcarrizalez/blob/master/BANK_QR.md).
+Payments [BankQr](https://github.com/jcarrizalez/jcarrizalez/blob/master/BANK_QR.md)
 
 ## Styles
 ![css3](https://github.com/jcarrizalez/jcarrizalez/assets/8440072/e1c34952-3193-4cab-bb6b-4bad394c4fc6)
